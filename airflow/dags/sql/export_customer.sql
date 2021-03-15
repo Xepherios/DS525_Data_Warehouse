@@ -1,0 +1,1 @@
+SELECT customer_id, customer_name, customer_birthdate FROM customer WHERE changed = '1'

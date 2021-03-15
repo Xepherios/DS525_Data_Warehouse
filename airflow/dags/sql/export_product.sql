@@ -1,0 +1,1 @@
+SELECT product_code, product_description, unit_price FROM product WHERE changed = '1'

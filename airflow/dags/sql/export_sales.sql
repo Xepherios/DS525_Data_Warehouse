@@ -1,0 +1,1 @@
+SELECT * FROM sales_all WHERE date >= '{{params.date}}' AND date <= '{{params.date}}'
